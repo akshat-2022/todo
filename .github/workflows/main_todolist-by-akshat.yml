@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TodoList-By-Akshat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FA59DA6E5CB4CF5A86ACF89F826F5D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3470E7927C38453BA1638B7654A2E4F0 }}
           package: .
